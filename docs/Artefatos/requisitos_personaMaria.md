@@ -18,6 +18,16 @@ A seguir, são apresentados os requisitos funcionais e não funcionais projetado
 | RF11  | O sistema deve fornecer notificações sobre interações no grupo ou novas conexões sugeridas.  |
 | RF12  | O sistema deve enviar uma notificação com uma mensagem motivacional para todos os usuários todas segundas-feira e quintas-feira 8h.|
 | RF13  | O sistema deve armazenar o histórico das questões respondidas pelos usuários, incluindo suas respectivas respostas e datas, e permitir que o histórico seja acessado em formato de relatório na área do usuário.|
+| RF14  | O sistema deve permitir que o usuário selecione quantas questões vai querer fazer no simulado. |                 |
+| RF15  | O sistema deve permitir a personalização do tempo de duração dos simulados.|
+| RF16  | O sistema deve permitir o acesso a provas anteriores completas.|
+| RF17  | O sistema deve fornecer 2 modos de prova, o modo Prática e o modo Simulado.|
+| RF18  | O sistema deve disponibilizar o gabarito da questão assim que a questão for resolvida no modo Prática.|
+| RF19  | O sistema deve permitir selecionar o tempo de prova, o número de questões e o tipo das questões no modo simulado.|
+| RF20  | O sistema deve permitir a customização dos simulados para incluir mais questões de matérias específicas (como Matemática e Ciências da Natureza).|
+| RF21  | O sistema deve possibilitar a seleção de disciplinas a serem priorizadas.|
+| RF22  |O sistema deve ser capaz de gerar um cronograma de estudos personalizado. |
+| RF23  |O sistema deve destacar as áreas que precisam de melhoria. |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Ana Carolina Costa César](https://github.com/CarolCoCe), [João Leles](https://github.com/joao-artl), [Felipe Motta](https://github.com/M0tt1nh4).</p></font>
 </center>
@@ -32,6 +42,9 @@ A seguir, são apresentados os requisitos funcionais e não funcionais projetado
 | RNF02  | O sistema deve armazenar dados conforme a LGPD (Lei Geral de Proteção de Dados Pessoais).      |
 | RNF03  | O sistema deve garantir que 10% das perguntas de cada simulado sejam questões previamente respondidas de forma incorreta pelo usuário. Caso não haja questões suficientes, as perguntas restantes devem ser selecionadas de forma aleatória.                |
 | RNF04  | O sistema deve permitir o download das guias de estudo e resumo em formato PDF. |
+| RNF05  | O sistema deve ser acessível em qualquer dispositivo com acesso à internet.|
+| RNF06  | O sistema deve ser acessível em dispositivos móveis.|
+| RNF07  | O sistema deve ser responsivo e adaptar-se à tela de diferentes dispositivos móveis.|
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Ana Carolina Costa César](https://github.com/CarolCoCe), [João Leles](https://github.com/joao-artl), [Felipe Motta](https://github.com/M0tt1nh4).</p></font>
 </center>
