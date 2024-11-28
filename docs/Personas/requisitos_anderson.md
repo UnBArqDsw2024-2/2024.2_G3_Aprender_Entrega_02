@@ -25,38 +25,50 @@ Segue abaixo os requisitos elicitados, dividos em 5 classificações funcionais 
 ### 3.1 Personalização e Configuração do Simulado
 
 1. O sistema deve permitir que o usuário selecione a quantidade de questões no simulado, incluindo a opção de configurar exercícios curtos ou a totalidade da prova.
+
 2. O sistema deve oferecer a opção de realizar simulados com questões de disciplinas aleatórias, conforme o interesse do usuário.
+
 3. O sistema deve permitir a criação de uma versão reduzida da prova, com questões abrangendo todas as disciplinas, mas em menor número.
 
 ### 3.2 Acompanhamento e Feedback Imediato
 
 4. O sistema deve fornecer feedback imediato ao final do simulado, indicando se as respostas estão corretas e exibindo a resolução das questões erradas.
+
 5. O sistema deve apresentar gabaritos e resoluções curtas e objetivas para cada questão do simulado.
 
 ### 3.3 Estudo Direcionado e Reforço de Pontos Fracos
 
 6. O sistema deve disponibilizar links para vídeos e conteúdos relacionados aos temas onde o usuário apresenta dificuldades, integrados com plataformas como o YouTube.
+
 7. O sistema deve permitir que o usuário refaça questões de temas nos quais ele errou em simulados anteriores.
+
 8. O sistema deve sugerir cronogramas de estudo personalizados com base nas dificuldades e desempenho do usuário.
+
 9. O sistema deve permitir a adaptação do cronograma de estudos para ajustar a carga ao ritmo do usuário e evitar sobrecarga.
 
 ### 3.4 Ferramentas de Monitoramento e Organização
 
 10. O sistema deve exibir um cronômetro durante o simulado, indicando o tempo decorrido e o tempo restante com base na duração padrão da prova.
+
 11. O sistema deve fornecer um guia explicativo sobre a estrutura e as características da prova do ENEM e da banca organizadora.
 
 ### 3.5 Gamificação e Motivação
 
 12. O sistema deve implementar um sistema de pontuação para as questões realizadas durante o estudo, promovendo a gamificação.
+
 13. O sistema deve permitir que o usuário configure metas de estudo e enviar notificações para lembrar e motivar o cumprimento dessas metas.
+
 14. O sistema deve exibir o progresso diário e de longo prazo do usuário em relação às metas de estudo estabelecidas.
+
 15. O sistema deve premiar o usuário com pontos adicionais por atingir metas diárias consecutivas e manter dias seguidos de estudo.
+
 16. O sistema deve oferecer emblemas como recompensa ao usuário por alcançar grandes metas de estudo.
+
 17. O sistema deve exibir um ranking dos usuários com os mesmos emblemas, promovendo competição justa e motivação.
 
 ## 4. Análise e Conclusão
 
-Forneça uma interpretação dos resultados, discutindo seu significado e implicações. Conclua o documento resumindo os pontos-chave e sugerindo próximos passos ou recomendações.
+Na segunda etapa da documentação realizada no [Google Sheets](https://docs.google.com/spreadsheets/d/1YadPL0ICzcG7JGqMRdq2svKq5dxUKzE6fzfoffjsSlU/edit?gid=0#gid=0)<a id="anchor_2" href="#REF2">^2^</a>, foi decidido unificar ou remover alguns dos 17 requisitos, isso ocorreu devido à duplicidade em relação a requisitos já desenvolvidos por outros membros do projeto para diferentes personas ou à análise de risco/retorno, que indicou que sua implementação não seria vantajosa (mais detalhes serão apresentados na seção sobre priorização e/ou verificação). 
 
 ## Referências Bibliográficas
 
