@@ -84,4 +84,4 @@ Na segunda etapa da documentação realizada no [Google Sheets](https://docs.goo
 
 | Versão | Data | Data de Revisão | Descrição | Autor(es) | Revisor(es) | Detalhes da revisão |
 | ------ | -------- | -------- | ----------------- | ------------------------- | ------------------------- | ------------------------- |
-| 1.0 | 27/11/2024 | 28/11/2024 | Criação do documento | [Eric Silveira](https://github.com/ericbky), [Gustavo Roberto](https://github.com/gusrberto), [Luiz Gustavo](https://github.com/LuizGust4vo) | [Danilo Naves](https://github.comDaniloNavesS) | [#8](https://github.com/UnBArqDsw2024-2/2024.2_G3_Aprender_Entrega_02/pull/8) |
+| 1.0 | 27/11/2024 | 28/11/2024 | Criação do documento | [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo) | [Danilo Naves](https://github.comDaniloNavesS) e [Gustavo Roberto](https://github.com/gusrberto) | [#8](https://github.com/UnBArqDsw2024-2/2024.2_G3_Aprender_Entrega_02/pull/8) |
