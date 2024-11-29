@@ -1,3 +1,25 @@
+# Requisitos Elicitados da Persona Maria
+
+## 1. Introdução
+
+Este documento apresenta os 30 requisitos elicitados para uma persona específica, denominada Maria, que representa um perfil típico de usuário com características e desafios relevantes para o contexto do sistema em questão.
+
+## 2. Metodologia
+
+No desenvolvimento de sistemas focados na experiência do usuário, compreender profundamente as necessidades e expectativas das personas é essencial para alinhar as soluções propostas aos objetivos e valores dos usuários finais. A elaboração do documento que reúne os requisitos elicitados para a persona Maria foi conduzida com base em uma abordagem estruturada e iterativa de engenharia de requisitos. A seguir, são detalhadas as técnicas e ferramentas utilizadas nesse processo.
+
+### 2.1 Técnica de Elicitação de Requisitos
+
+- **Análise de Persona:** essa técnica, amplamente utilizada na elicitação de requisitos, foi a principal abordagem adotada no projeto. Por meio dela, foi possível compreender detalhadamente os usuários e suas características, permitindo o desenvolvimento de soluções alinhadas às suas necessidades e expectativas específicas.
+
+### 2.2 Ferramentas Utilizadas
+
+- **Documentação:** inicialmente, a ferramenta [Google Docs](https://docs.google.com/document/d/1x-UCNFgMgGev1fhT59Rhc4gisIndJaGMOQkznRJ-p4c/edit?usp=sharing)<a id="anchor_1" href="#REF1">^1^</a> foi utilizada para realizar o levantamento dos requisitos, proporcionando um espaço colaborativo para a documentação inicial. Posteriormente, os requisitos foram organizados e priorizados no [Google Sheets](https://docs.google.com/spreadsheets/d/1YadPL0ICzcG7JGqMRdq2svKq5dxUKzE6fzfoffjsSlU/edit?gid=0#gid=0)<a id="anchor_2" href="#REF2">^2^</a>, onde também foram integrados aos requisitos de outras personas, levantados por outros membros do projeto. Por fim, as versões finais serão padronizadas e organizadas antes de serem disponibilizadas no [Repositório do GitHub](https://github.com/UnBArqDsw2024-2/2024.2_G3_Aprender_Entrega_02/tree/main)<a id="anchor_3" href="#REF3">^3^</a> da disciplina, como parte da entrega 02.
+
+- **Comunicação:** Durante o levantamento de requisitos assim como na priorização dos requisitos, utilizamos o [Microsoft Teams](https://teams.microsoft.com/v2/)<a id="anchor_4" href="#REF4">^4^</a>, em conjunto com os demais membros do projeto, para alinhar e consolidar os requisitos levantados, promovendo uma comunicação eficiente e colaborativa.
+
+## 3. Requisitos Elicitados
+
 A seguir, são apresentados os requisitos funcionais e não funcionais projetados para atender às necessidades da persona Maria, uma estudante que utiliza a plataforma para se preparar de maneira eficiente para seus objetivos acadêmicos. Os requisitos funcionais descrevem as funcionalidades essenciais para oferecer uma experiência prática e personalizada, enquanto os não funcionais garantem desempenho, segurança e usabilidade adequados para que Maria possa confiar e se engajar na plataforma de forma contínua.
 
 <center>
@@ -48,3 +70,19 @@ A seguir, são apresentados os requisitos funcionais e não funcionais projetado
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Ana Carolina Costa César](https://github.com/CarolCoCe), [João Leles](https://github.com/joao-artl), [Felipe Motta](https://github.com/M0tt1nh4).</p></font>
 </center>
+
+## Referências Bibliográficas
+
+> <a id="REF1" href="#anchor_1">1.</a> Google Docs - Requisitos Maria. Disponível em: <https://docs.google.com/document/d/1x-UCNFgMgGev1fhT59Rhc4gisIndJaGMOQkznRJ-p4c/edit?usp=sharing>. Acesso em: 25 de nov de 2024.
+
+> <a id="REF2" href="#anchor_2">2.</a> Google Sheets - First things first. Disponível em: <https://docs.google.com/spreadsheets/d/1YadPL0ICzcG7JGqMRdq2svKq5dxUKzE6fzfoffjsSlU/edit?gid=0#gid=0>. Acesso em: 26 de nov de 2024.
+
+> <a id="REF3" href="#anchor_3">3.</a> GitHub - 2024.2_G3_Aprender_Entrega_02. Disponível em: <https://github.com/UnBArqDsw2024-2/2024.2_G3_Aprender_Entrega_02/tree/main>. Acesso em: 26 de nov de 2024.
+
+> <a id="REF4" href="#anchor_4">4.</a> Microsoft Teams. Disponível em: <https://teams.microsoft.com/v2/>. Acesso em: 26 de nov de 2024.
+
+## Histórico de Versão
+
+| Versão | Data | Data de Revisão | Descrição | Autor(es) | Revisor(es) | Detalhes da revisão |
+| ------ | -------- | -------- | ----------------- | ------------------------- | ------------------------- | ------------------------- |
+| `1.0` | 27/11/2024 | 28/11/2024 | Criação do documento | [Ana Carolina Costa César](https://github.com/CarolCoCe), [João Leles](https://github.com/joao-artl) e [Felipe Motta](https://github.com/M0tt1nh4) | - | - |
