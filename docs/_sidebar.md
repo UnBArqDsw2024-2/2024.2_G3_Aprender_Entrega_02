@@ -10,6 +10,7 @@
   - [2. Desenho de Software (Modelagem)](/Modelagem/2.Modelagem.md)
     - [2.1. Modelagem UML Estática](/Modelagem/2.1.ModelagemEstatica.md)
         - [2.1.1. Classes Squad 03](/Modelagem/2.1.1.Classes-Squad3.md)
+        - [2.1.2. Diagrama de Classes](/Modelagem/2.1.2.DiagramaClasses.md)
     - [2.2. Modelagem UML Dinâmica](/Modelagem/2.2.ModelagemDinamica.md)
         - [2.2.1. Diagrama de Estados](/Modelagem/2.2.1.DiagramaEstados.md)
         - [2.2.2. Diagrama de Atividades](/Modelagem/2.2.2.DiagramaAtividades.md)
