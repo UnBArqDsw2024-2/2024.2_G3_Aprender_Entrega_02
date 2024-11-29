@@ -9,59 +9,59 @@ Com base nas User [Stories de José](https://unbarqdsw2024-2.github.io/2024.2_G3
 
 ### **Requisitos Funcionais**
 
-**RF13:** O sistema deve permitir que o usuário ajuste o tamanho da fonte e o contraste das cores em toda a plataforma.
+**RFJ1:** O sistema deve permitir que o usuário ajuste o tamanho da fonte e o contraste das cores em toda a plataforma.
 
 - **Descrição:** Disponibilizar controles acessíveis para que usuários como José possam personalizar a visualização conforme suas necessidades visuais.
 
-**RF14:** O sistema deve apresentar uma interface limpa e direta, minimizando etapas para realizar ações.
+**RFJ2:** O sistema deve apresentar uma interface limpa e direta, minimizando etapas para realizar ações.
 
 - **Descrição:** Simplificar a navegação, reduzindo menus e opções complexas, focando nas funcionalidades essenciais.
 
-**RF15:** O sistema deve oferecer tutoriais e guias explicativos fáceis de entender.
+**RFJ3:** O sistema deve oferecer tutoriais e guias explicativos fáceis de entender.
 
 - **Descrição:** Fornecer materiais de apoio, como vídeos ou instruções passo a passo, para auxiliar usuários com pouca experiência em tecnologia.
 
-**RF16:** O sistema deve fornecer uma ferramenta de planejamento de estudos semanal simples e intuitiva.
+**RFJ4:** O sistema deve fornecer uma ferramenta de planejamento de estudos semanal simples e intuitiva.
 
 - **Descrição:** Permitir que o usuário planeje suas atividades de estudo de forma fácil, com possibilidade de visualizar e editar seu cronograma.
 
-**RF17:** O sistema deve enviar lembretes e notificações sobre tarefas e metas de estudo.
+**RFJ5:** O sistema deve enviar lembretes e notificações sobre tarefas e metas de estudo.
 
 - **Descrição:** Alertar o usuário sobre atividades programadas, prazos e metas estabelecidas para auxiliá-lo na organização.
 
-**RF18:** O sistema deve permitir o download e impressão dos conteúdos de estudo.
+**RFJ6:** O sistema deve permitir o download e impressão dos conteúdos de estudo.
 
 - **Descrição:** Oferecer materiais em formatos que possam ser impressos, como PDFs, facilitando o acesso offline e em papel.
 
-**RF19:** O sistema deve disponibilizar módulos de estudo curtos e objetivos.
+**RFJ7:** O sistema deve disponibilizar módulos de estudo curtos e objetivos.
 
 - **Descrição:** Estruturar o conteúdo em segmentos que possam ser concluídos em períodos curtos, adequando-se ao tempo disponível do usuário.
 
-**RF20:** O sistema deve minimizar elementos visuais desnecessários que possam distrair ou sobrecarregar o usuário.
+**RFJ8:** O sistema deve minimizar elementos visuais desnecessários que possam distrair ou sobrecarregar o usuário.
 
 - **Descrição:** Adotar um design clean, evitando excesso de informações na tela.
 
 ### **Requisitos Não Funcionais**
 
-**NFR14:** O sistema deve seguir as diretrizes de acessibilidade WCAG 2.1, garantindo suporte a usuários com deficiências visuais.
+**RNFJ1:** O sistema deve seguir as diretrizes de acessibilidade WCAG 2.1, garantindo suporte a usuários com deficiências visuais.
 
-**NFR15:** A interface deve ser intuitiva, permitindo que usuários com baixa familiaridade tecnológica naveguem sem dificuldade.
+**RNFJ2:** A interface deve ser intuitiva, permitindo que usuários com baixa familiaridade tecnológica naveguem sem dificuldade.
 
-**NFR16:** O sistema deve ser compatível com tecnologias de leitura de tela.
+**RNFJ3:** O sistema deve ser compatível com tecnologias de leitura de tela.
 
 - **Descrição:** Assegurar que todos os elementos da interface possam ser lidos por softwares de acessibilidade.
 
-**NFR17:** Os tutoriais e guias devem estar disponíveis em linguagem clara e objetiva.
+**RNFJ4:** Os tutoriais e guias devem estar disponíveis em linguagem clara e objetiva.
 
 - **Descrição:** Evitar termos técnicos complexos, facilitando a compreensão.
 
-**NFR18:** A plataforma deve ter desempenho otimizado para evitar atrasos ou lentidão.
+**RNFJ5:** A plataforma deve ter desempenho otimizado para evitar atrasos ou lentidão.
 
 - **Descrição:** Garantir tempos de resposta rápidos, mesmo em conexões de internet mais lentas.
 
-**NFR19:** O design deve seguir princípios de usabilidade, com fontes legíveis e contrastes adequados.
+**RNFJ6:** O design deve seguir princípios de usabilidade, com fontes legíveis e contrastes adequados.
 
-**NFR20:** O sistema deve ser testado com usuários reais para validar a facilidade de uso e acessibilidade.
+**RNFJ7:** O sistema deve ser testado com usuários reais para validar a facilidade de uso e acessibilidade.
 
 
 
