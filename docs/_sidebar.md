@@ -30,3 +30,13 @@
         - [2.3.1. Diagrama de Pacotes](/Modelagem/2.3.1.DiagramaPacotes)
     - [2.4. Participações - Modelagem](/Modelagem/2.6.ParticipacoesModelagem.md)
     - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
+
+- **Avaliações**
+  - [Entrega 2](/Avaliacoes/entrega_2.md)
+
+- **Atas**
+  - [1. Priorização](/Atas/1.Priorizacao.md)
+  - [2. Diagrama de Pacotes](/Atas/2.Diagrama-de-Pacotes.md)
+
+- **Templates**
+  - [Artefato](/Templates/template_artefato.md)
