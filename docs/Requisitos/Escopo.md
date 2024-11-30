@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Este documento apresenta a priorização dos requisitos elicitados para o desenvolvimento do projeto [NOME DO PROJETO]. A atividade foi realizada utilizando o método *First Things First* (FTF), com base em requisitos coletados a partir de User Stories desenvolvidas por cada squad. A priorização tem como objetivo identificar quais requisitos devem ser tratados com maior urgência, garantindo alinhamento com os objetivos estratégicos do projeto e as necessidades dos usuários.
+Este documento apresenta a priorização dos requisitos elicitados para o desenvolvimento do projeto. A atividade foi realizada utilizando o método *First Things First* (FTF), com base em requisitos coletados a partir de User Stories desenvolvidas por cada squad. A priorização tem como objetivo identificar quais requisitos devem ser tratados com maior urgência, garantindo alinhamento com os objetivos estratégicos do projeto e as necessidades dos usuários.
 
 O processo incluiu elicitação de requisitos, organização em uma tabela FTF e discussão em equipe durante uma reunião para consolidar as prioridades.
 
