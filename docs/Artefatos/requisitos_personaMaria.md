@@ -85,4 +85,4 @@ A seguir, são apresentados os requisitos funcionais e não funcionais projetado
 
 | Versão | Data | Data de Revisão | Descrição | Autor(es) | Revisor(es) | Detalhes da revisão |
 | ------ | -------- | -------- | ----------------- | ------------------------- | ------------------------- | ------------------------- |
-| `1.0` | 27/11/2024 | 28/11/2024 | Criação do documento | [Ana Carolina Costa César](https://github.com/CarolCoCe), [João Leles](https://github.com/joao-artl) e [Felipe Motta](https://github.com/M0tt1nh4) | - | - |
+| `1.0` | 27/11/2024 | 29/11/2024 | Criação do documento | [Ana Carolina Costa César](https://github.com/CarolCoCe), [João Leles](https://github.com/joao-artl) e [Felipe Motta](https://github.com/M0tt1nh4) | [Giovanni Giampauli](https://github.com/giovanniacg | Tudo ok |
