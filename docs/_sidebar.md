@@ -11,7 +11,7 @@
   - [Anderson](/Personas/requisitos_anderson.md)
   - [José](/Personas/requisitos_jose.md)
   - [Lucas](/Personas/requisitos_lucas.md)
-  - [Anderson](/Personas/requisitos_maria.md)
+  - [Maria](/Personas/requisitos_maria.md)
 
 - **Priorização**
   - [First Things Firts](/Requisitos/Escopo.md)
