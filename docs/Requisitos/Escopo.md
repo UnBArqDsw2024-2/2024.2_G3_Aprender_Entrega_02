@@ -60,4 +60,4 @@ A priorização dos requisitos pelo método FTF foi essencial para alinhar as ne
 
 | Versão | Data       | Data de Revisão          | Descrição            | Autor(es)                       | Revisor(es)                       | Detalhes da revisão        |
 | ------ | ---------- | ------------------------ | -------------------- | ------------------------------- | --------------------------------- | -------------------------- |
-| 1.0    | 29/11/2024 | -            | Criação do documento | [Giovanni Giampauli](https://github.com/giovanniacg)                   | -         | -              |
+| 1.0    | 29/11/2024 | 29/11/2024 | Criação do documento | [Giovanni Giampauli](https://github.com/giovanniacg)                   | [João Artur Leles](https://github.com/joao-artl)  | [23](https://github.com/UnBArqDsw2024-2/2024.2_G3_Aprender_Entrega_02/pull/23) |
