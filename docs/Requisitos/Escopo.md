@@ -35,7 +35,7 @@ O processo de priorização seguiu os seguintes passos:
 
 Abaixo, está a tabela consolidada de priorização dos requisitos, organizada conforme o método FTF:
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS8wM4BYyFcbTW-PTmzqwbEM5MITbuF_7JZcKzLCP2ulqC7ru2B-BjPek-KB-zB_aopoEGa7Ss0cL3c/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="800" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS8wM4BYyFcbTW-PTmzqwbEM5MITbuF_7JZcKzLCP2ulqC7ru2B-BjPek-KB-zB_aopoEGa7Ss0cL3c/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 
